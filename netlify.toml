@@ -1,4 +1,0 @@
-from = "/Musics.html"
-to = "https://drive.google.com/drive/folders/1-1ZdhI_qo6tnzxBkffalylKTB5dCNpJ8"
-status = 301
-force = true
